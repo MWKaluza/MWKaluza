@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MWKaluza
+- 👋 Hi, I’m Marcin
 - 👀 I’m interested in Data Analysis in Python.
 - 🌱 I’m currently learning Python.
 
